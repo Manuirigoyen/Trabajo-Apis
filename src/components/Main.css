@@ -1,0 +1,19 @@
+.main {
+  padding: 20px;
+  text-align: center;
+  background-color: #C59507;
+}
+
+.pokemon-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; 
+  justify-content: center;
+  max-width: 1200px; 
+  margin: 0 auto; 
+}
+
+h1 {
+  margin-bottom: 30px;
+  color: #2E2E2E;
+}
